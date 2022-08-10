@@ -1,8 +1,8 @@
-# Minecraft Toolbox
+# Create Mod Toolbox
 
 ## Information
 
-Minecraft Toolbox is a WebApp that provides multiple tools to alter your Minecraft gameplay experience.
+Create Mod Toolbox is a fork of Fasguy's WebApp that provides multiple tools to alter your Create Mod gameplay experience.
 
 ## Tools
 
@@ -15,4 +15,4 @@ Randomizes the crafting recipes of items.
 
 ## Use
 
-If you just want to use the Toolbox, you can check out a live version at https://fasguy.net/minecraft_toolbox.
+If you just want to use the Toolbox, you can check out a live version at https://repeatgithub.github.io/CreateModToolbox .
